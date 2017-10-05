@@ -2,3 +2,10 @@ Line 1
 Mona
 Mota
 Gaaja
+ 
+
+
+1. git init
+2. git add fileName
+3. git commit -m "message"
+4. git status
